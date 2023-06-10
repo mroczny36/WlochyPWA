@@ -1,0 +1,17 @@
+{
+    "name": "Turystyka we Włoszech",
+    "short_name": "Włochy",
+    "theme_color" : "#06f1f1",
+    "background_color" : "#e7ded6",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/WlochyPWA/index.html",
+    "icons": [
+        {
+            "src": "./img/icona.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
