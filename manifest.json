@@ -9,7 +9,7 @@
     "start_url": "/WlochyPWA/index.html",
     "icons": [
         {
-            "src": "./img/icona.png",
+            "src": "./img/iconaITA.png",
             "sizes": "512x512",
             "type": "image/png"
         }
